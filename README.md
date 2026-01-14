@@ -81,7 +81,3 @@ Educational AI-based project for searching and analyzing BTEC documentation.
 
 - Email: hamza.zyood91@yahoo.com
 - GitHub: https://github.com/HamzaAlfarhood
-
----
-
-> *"Building things one line of code at a time."*
